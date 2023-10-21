@@ -83,7 +83,9 @@ const HeroSection = () => {
             </div>
           </div>
           <button className="w-32 mb-10 ml-64 p-6 rounded-lg font-extralight  my-auto  bg-purple-400">
+            {/* <button className="relative left-2/3 transform skew-x-20 border-3 border-transparent rounded-8 p-10 min-w-150 bg-gradient-to-r from-purple-500 via-red-500 to-yellow-500 bg-clip-padding-box bg-origin-border-box text-white font-bank-gothic-medium text-24 font-normal mb-0 h-60"> */}
             Explore
+            {/* </button> */}
           </button>
         </div>
       </div>
